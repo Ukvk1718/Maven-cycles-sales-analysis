@@ -4,6 +4,20 @@
 
 ---
 
+## 📁 Project Details 
+
+This project was created as part of a Power BI learning course and aimed at developing practical business analytics skills. The dataset contains sales data for a cycling company named **Maven Cycles**, spanning multiple years, products, categories, and regions.
+
+The project involved:
+- Starting with **data cleaning**, **merging tables**, and **removing nulls** using Power Query
+- Creating a **semantic data model** and building meaningful **DAX measures**
+- Designing a multi-page **interactive report** in Power BI Desktop. The full report is uploaded as a PDF.
+- Adding advanced elements like **drill-throughs**, **bookmarks**, and **custom tooltips**
+- Publishing the report to **Power BI Service**, where I created a **dashboard for both web and mobile**. A screenshot of the Web Dashboard is also uploaded
+- Finally, I published the dashboard as a **Power BI App**, simulating an enterprise-ready reporting flow
+
+---
+
 ## 🧠 Insights & Summary in the Latest Month
 
 - Total Revenue: **$1.37M** (vs. goal $8.14M)
@@ -24,16 +38,6 @@
 - ✅ Bookmarks for Time-based Filtering
 - ✅ Mobile & Web-optimized Dashboards
 - ✅ Published App on Power BI Service
-
----
-
-## 📁 Project Files
-
-| File/Folder         | Description                            |
-|---------------------|----------------------------------------|
-| `assets/`           | Dashboard screenshots, preview images  |
-| `reports/`          | Full analysis PDF report               |
-| `README.md`         | This file                              |
 
 ---
 
