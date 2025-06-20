@@ -4,12 +4,6 @@
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](./assets/dashboard-screenshot.png)
-
----
-
 ## 🧠 Insights & Summary in the Latest Month
 
 - Total Revenue: **$1.37M** (vs. goal $8.14M)
